@@ -95,3 +95,27 @@
         text-align: center;
         position: relative;
     }
+    /* contact us section */
+#contactus input[type="text"], #contactus input[type="email"]{
+    background:transparent;
+    padding:20px;
+    border: #ffffff 2px solid;
+    margin: 10px;
+    font-size: 20px;
+    width: 80%;
+    color:#ffffff;
+    margin: auto;
+    
+}
+#textarea{
+    background:transparent;
+    padding:20px;
+    border: #ffffff 2px solid;
+    margin: 10px;   
+    height: 300px;;
+    color:#ffffff;
+    width: 92%;
+    font-size: 20px;
+    margin: auto;
+
+}
