@@ -119,3 +119,61 @@
     margin: auto;
 
 }
+#contactus h1{
+    padding: 20px;
+    
+}
+
+footer{
+    width: 100vw;
+    height: auto;
+    padding: 40px;
+    text-align: center;
+    
+}
+footer img{
+    margin: 30px;
+    
+}
+
+footer p{
+    font-size: 1.6em;
+}
+
+
+.images1{
+    margin:10%;
+}
+::-webkit-input-placeholder{
+    color: #ffffff;
+
+}
+.details{
+    width: 366px;
+    
+    border: solid black 2px;
+    overflow: hidden;
+    position: relative;
+    margin: 30px;
+
+    
+}
+.info{
+    background:rgba(0, 0, 0, .5);
+    width: 366px;
+    color: #ffffff;
+    text-align: center;
+    padding:10px;
+    height: 290px;
+    font-size: 20px;
+    transition: 2s;
+    top: 0px;
+    bottom: 0px;
+    position: absolute;
+ 
+    cursor: pointer;
+    padding-top:100px;
+
+    
+    
+}
