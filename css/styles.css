@@ -62,3 +62,21 @@
     
     
     }
+    #services p{
+        font-size: 1.3em;
+    }
+    #whatWeDo{
+        width: 100vw;
+        text-align: center;
+    }
+    #portfolio{
+        text-align: center;
+        
+    }
+    #portfolio h1, #whatWeDo h1{
+        font-weight: 900;
+        padding-top:70px;
+        padding-bottom: 40px;
+        text-transform: uppercase;
+        font-size: bolder;
+    }
