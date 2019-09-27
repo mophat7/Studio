@@ -177,3 +177,59 @@ footer p{
     
     
 }
+#prj1,#prj2,#prj3,#prj3,#prj4,#prj5,#prj6,#prj7,#prj8{
+    position: absolute;
+    }
+    
+    .submit{
+        margin-left:80%;
+    }
+    #errors{
+        width: 70%;
+        height: 100px;
+        background: red;
+        margin: auto;
+        border-radius: 20px;
+        padding: 30px;
+        text-align: center;
+        font-size: 1.0em;
+        display: none;
+    }
+    #des,#dev,#prod{
+        display: none;
+    }
+    
+    #modal{
+        height: 100vh;
+        width: 100vw;
+        background: rgba(0, 0, 0, .7);
+        position: absolute;
+        top: 0; 
+        display: none;
+    }
+    #content{
+        width: 600px;
+        height: 300px;
+        background: transparent;
+        color: red;
+        border-radius: 10px;
+        position: relative;
+        top: 30%;
+        left: 30%;
+        padding: 20px;
+        font-size: 20px;
+        background: #ffffff;
+    
+        
+    }
+    
+    .close{
+        font-size: 50px;
+        position: absolute;
+        top: 0px;
+        right: 20px;
+        
+        transform: rotate(45deg);
+        cursor: pointer;
+        overflow: hidden;
+    }
