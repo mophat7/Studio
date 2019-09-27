@@ -1,0 +1,12 @@
+/* Resetting the body */
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    font-family: 'Heebo', sans-serif;/*google font*/
+    
+
+
+}
