@@ -87,7 +87,7 @@
     }
     #contactus{
         width: 100vw;
-        background: url("/assets/backgrounds/c_image.jpg");
+        background: url("../assets/backgrounds/c_image.jpg");
         padding-top: 100px;
         margin: 100px 0 100px 0;
         color: #ffffff;
