@@ -3,7 +3,7 @@
     padding: 0px;
     margin:0px;
     box-sizing: border-box;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     scroll-behavior: smooth;
     font-family: 'Heebo', sans-serif;/*google font*/
     
@@ -39,8 +39,9 @@
     width: 100vw;
     height: 50vh;
     text-align: center;
-    font-size: 1.8em;
+    font-size: 1.4em;
     line-height: 1.6em;
+    overflow: hidden;
 
 }
 #About h1, #services h1{
