@@ -10,3 +10,19 @@
 
 
 }
+/* Styling the main section landing page */
+#main{
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    font-size: 1.6em;
+    text-align: center; 
+    display:flex;
+    color: #ffffff;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+
+}
